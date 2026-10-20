@@ -1,0 +1,17 @@
+{
+  "name": "pvc-premium-print",
+  "version": "1.0.0",
+  "description": "Premium PVC Card Printing & Digital Services Center",
+  "main": "index.js",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  }
+}
